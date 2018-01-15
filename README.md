@@ -18,7 +18,7 @@
 赶工代码写得又烂又丑 不要吐槽
 ```
 ## 效果图
-~[demo2](https://ws2.sinaimg.cn/large/c07597a3ly1fnhp5cto63j21hc0u0k7s.jpg)
+![demo2](https://ws2.sinaimg.cn/large/c07597a3ly1fnhp5cto63j21hc0u0k7s.jpg)
 ## 参考项目
 - [wuditken/MillionHeroes](https://github.com/wuditken/MillionHeroes)
 - [lingfengsan/MillionHero](https://github.com/lingfengsan/MillionHero)
