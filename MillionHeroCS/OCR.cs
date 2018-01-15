@@ -10,7 +10,7 @@ using System.Web;
 using System.Windows.Forms;
 using Newtonsoft.Json;
 
-namespace MillionHeroCS
+namespace MillionHeroDotNet
 {
 
     /// <summary>

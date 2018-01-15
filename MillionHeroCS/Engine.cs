@@ -12,17 +12,25 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MillionHeroCS
+namespace MillionHeroDotNet
 {
 
     public static class Engine
     {
 
+        /// <summary>
+        /// 热键事件
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         public static void KeyPressed(object sender, HotKeyEventArgs e)
         {
             Task.Factory.StartNew(delegate { Analyse(); });
         }
 
+        /// <summary>
+        /// 分析数据
+        /// </summary>
         static void Analyse()
         {
             if (first)
