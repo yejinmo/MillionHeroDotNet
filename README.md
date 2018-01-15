@@ -6,12 +6,14 @@
 - 根据百度搜索统计数目确定一个组合项目的最优解
 - 根据百度知道统计数目确定一个最优解
 ## 使用方法
-1. [点此下载](https://github.com/yejinmo/MillionHeroDotNet/releases/download/1.0/Release.rar) 答题助手的发布版本或自行编
-2. 打开 [百度通用文字识别](http://ai.baidu.com/tech/ocr/general) 并获取使用权限
-3. 将 `API Key` 及 `Secret Key` 分别填到程序目录下 `config.ini`  文件中的 `ClientId` 和 `ClientSecret`
-4. 运行 MillionHeroDotNet.exe
-5. 当程序启动并加载完成后使用全局热键 `Ctrl + Q` 激活选择题目区域的功能，按照提示操作即可
-6. 之后再次使用 `Ctrl + Q` 即自动寻找答案
+1. [点此下载夜神模拟器](https://www.yeshen.com/cn/download/fullPackage) 安装 并在之后安装西瓜视频
+2. [点此下载](https://github.com/yejinmo/MillionHeroDotNet/releases/download/1.0/Release.rar) 答题助手的发布版本或自行编译
+3. 打开 [百度通用文字识别](http://ai.baidu.com/tech/ocr/general) 并获取使用权限
+4. 将 `API Key` 及 `Secret Key` 分别填到程序目录下 `config.ini`  文件中的 `ClientId` 和 `ClientSecret`
+5. 运行模拟器并启动西瓜视频
+6. 运行 MillionHeroDotNet.exe
+7. 当程序启动并加载完成后使用全局热键 `Ctrl + Q` 激活选择题目区域的功能，按照提示操作即可
+8. 之后再次使用 `Ctrl + Q` 即自动寻找答案
 ```
 赶工代码写得又烂又丑 不要吐槽
 ```
