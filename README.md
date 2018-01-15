@@ -12,6 +12,11 @@
 4. 运行 MillionHeroDotNet.exe
 5. 当程序启动并加载完成后使用全局热键 `Ctrl + Q` 激活选择题目区域的功能，按照提示操作即可
 6. 之后再次使用 `Ctrl + Q` 即自动寻找答案
+```
+赶工代码写得又烂又丑 不要吐槽
+```
+## 效果图
+~[demo2](https://ws2.sinaimg.cn/large/c07597a3ly1fnhp5cto63j21hc0u0k7s.jpg)
 ## 参考项目
 - [wuditken/MillionHeroes](https://github.com/wuditken/MillionHeroes)
 - [lingfengsan/MillionHero](https://github.com/lingfengsan/MillionHero)
